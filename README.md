@@ -1,7 +1,6 @@
 # Connect 4 Project
 
 
----
 
 
 ### Project aims
